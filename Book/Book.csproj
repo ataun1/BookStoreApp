@@ -8,8 +8,8 @@
     <ProjectGuid>{42FE290D-7A80-451B-AC4F-A7B34B3B3D3B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>YourDomain</RootNamespace>
-    <AssemblyName>YourDomain</AssemblyName>
+    <RootNamespace>Book</RootNamespace>
+    <AssemblyName>Book</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

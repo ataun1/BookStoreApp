@@ -8,8 +8,8 @@
     <ProjectGuid>{4306B621-323B-4574-BFBF-2D002491AE1E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>YourDomainTests</RootNamespace>
-    <AssemblyName>YourDomainTests</AssemblyName>
+    <RootNamespace>BookTests</RootNamespace>
+    <AssemblyName>BookTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
