@@ -123,6 +123,7 @@ namespace BookStoreApp.Controllers
             return RedirectToAction("Index");
         }
 
+        // Send back to Rental controller to handle the logic for handling booking
         public ActionResult CreateBooking(string Id)
         {
             if (Id == null)
