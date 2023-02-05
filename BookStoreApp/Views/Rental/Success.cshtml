@@ -1,0 +1,10 @@
+﻿@model BookStoreApp.Models.Rental
+
+@{
+    ViewBag.Title = "Booking Successful";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Booking has been successful</h2>
+<h4>Booking Number created: @Html.DisplayFor(model => model.BookingNumber)</h4>
+
